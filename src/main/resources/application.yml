@@ -3,5 +3,3 @@
 spring:
   jpa:
     generate-ddl: true
-  profiles: in-memory
-  
